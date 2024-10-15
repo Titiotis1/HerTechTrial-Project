@@ -58,3 +58,4 @@ df['State']= df['farm_location'].apply(lambda x: x.split(',')[-1])
 
 
 
+
