@@ -60,5 +60,6 @@ df['State']= df['farm_location'].apply(lambda x: x.split(',')[-1])
 
 ![visualization 3](https://github.com/user-attachments/assets/9f183a32-2eab-42f8-84e7-174c967506cd)
 
+![visualization 4](https://github.com/user-attachments/assets/355e8891-156b-4896-b343-e69792d3fec2)
 
 
