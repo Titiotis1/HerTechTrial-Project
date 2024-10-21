@@ -54,6 +54,7 @@ print(df[['price_per_kg', 'units_sold_kg', 'revenue_generated']].head())
 #Extracting the state from farm location
 df['State']= df['farm_location'].apply(lambda x: x.split(',')[-1])
 ```
+![visualization1](https://github.com/user-attachments/assets/15803036-3d01-4cce-9ee6-5130e54e6b62)
 
 
 
